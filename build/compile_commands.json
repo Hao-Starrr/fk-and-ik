@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/GitHub/fk-and-ik/build",
+  "command": "C:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/RobotArm.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles/RobotArm.dir/main.cpp.obj -c E:/GitHub/fk-and-ik/main.cpp",
+  "file": "E:/GitHub/fk-and-ik/main.cpp",
+  "output": "CMakeFiles/RobotArm.dir/main.cpp.obj"
+}
+]
