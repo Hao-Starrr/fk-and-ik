@@ -3,7 +3,8 @@
 Eigen 是 cpp 线性代数的库，KDL（Kinematics and Dynamics Library）是运动学的库。
 
 cpp 里还有很多有意思的库：
-功能包 Boost（算是 STL 的补充包）
+
+功能包 Boost 算是 STL 的补充包  
 数据解析库 yaml-cpp  
 数据解析库 rapidjson  
 数据解析库 jsoncpp  
