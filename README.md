@@ -27,4 +27,5 @@ target_link_libraries(your_project_name ${orocos_kdl_LIBRARIES})
 - 模板和内联函数：Header-only 库通常大量使用模板和内联函数。模板类和函数在使用时进行实例化，而内联函数在每个调用点展开。
 - 所以方便用！
 
-但 KDL 不是！它是需要先编译的。变成 lib 或者 a 文件才能动态链接进去。
+但 KDL 不是！它是需要先编译的。变成 lib 或者 a 文件才能动态链接进去。所以要先 cmake build KDL。
+因为一些版本问题太麻烦，也没法放进 arduino 项目里，放弃。

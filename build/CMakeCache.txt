@@ -244,6 +244,9 @@ RobotArm_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 RobotArm_SOURCE_DIR:STATIC=E:/GitHub/fk-and-ik
 
+//The directory containing a CMake configuration file for orocos_kdl.
+orocos_kdl_DIR:PATH=orocos_kdl_DIR-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries
